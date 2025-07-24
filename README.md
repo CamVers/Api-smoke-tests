@@ -1,4 +1,4 @@
-# Smoke-тесты API на Python
+# Smoke-тест API на Python
 
 Простой проект для проверки работы API (JSONPlaceholder).
 
